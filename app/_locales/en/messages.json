@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "chrome art app",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "Autodestroy",
+        "description": "The description of the application"
+    }
+}
